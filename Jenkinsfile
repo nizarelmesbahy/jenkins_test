@@ -11,7 +11,7 @@ tools{
            steps {
                 script {
                    
-                 dir('app') {
+                 dir('\\app') {
 
 
 
