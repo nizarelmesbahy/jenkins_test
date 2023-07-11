@@ -1,7 +1,7 @@
 pipeline {
     agent any
 tools{
-       nodejs '18.16.1'
+       jenkins.plugins.nodejs.tools.NodeJSInstallation '18.16.1'
 
    
  
