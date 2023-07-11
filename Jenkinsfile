@@ -17,7 +17,7 @@ tools{
 
                            echo'TEST'
                 
-   sh "jar cvf app.war ."
+   sh 'jar cvf app.war'
 
 echo'test001'}
 
